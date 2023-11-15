@@ -1,3 +1,8 @@
+## Merkle-Tree & Merkle-Proofs
+
+**This is just a demo contract to understand the working of Merkle-tree and Merkle-Proofs used in creating Whitelists for initial token mints or NFT mints**
+
+
 # Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
